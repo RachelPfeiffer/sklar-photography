@@ -1,0 +1,11 @@
+PROCESSED on Tue, 26 Feb 2019 08:18:58 +0000
+/wp-content/plugins/woocommerce/assets/css/woocommerce.css
+/wp-content/plugins/woocommerce-gateway-paypal-express-checkout/assets/css/wc-gateway-ppec-frontend-cart.css
+/wp-content/plugins/wpforms-lite/assets/css/wpforms-full.css
+/wp-content/themes/photograph/style.css
+/wp-content/themes/photograph/assets/wow/css/animate.min.css
+/wp-content/themes/photograph/assets/font-awesome/css/font-awesome.min.css
+/wp-content/themes/photograph/assets/fancybox/css/jquery.fancybox.min.css
+/wp-content/themes/photograph/css/responsive.css
+/wp-content/plugins/jetpack/css/jetpack.css
+PROCESSED from https://tamarsklarphotography.com/contact-us/

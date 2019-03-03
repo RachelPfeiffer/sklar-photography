@@ -1,0 +1,3 @@
+PROCESSED on Tue, 26 Feb 2019 06:03:40 +0000
+/wp-content/plugins/jetpack/css/jetpack.css
+PROCESSED from https://tamarsklarphotography.com/wp-login.php?redirect_to=https%3A%2F%2Ftamarsklarphotography.com%2Fwp-admin%2Fadmin.php%3Fpage%3Dstats%26noheader%26proxy%26chart%3Dadmin-bar-hours-scale&reauth=1
